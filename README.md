@@ -1,4 +1,4 @@
-# Proyecto de Spring Batch
+# API Spring Batch Project
 
 Este proyecto implementa un flujo de procesamiento por lotes utilizando Spring Batch. Incluye dependencias de JPA, Web, JasperReports, Spring Mail, Lombok y MySQL. Además, cuenta con servicios de Docker configurados con el ELK stack para monitoreo y una base de datos MySQL.
 
